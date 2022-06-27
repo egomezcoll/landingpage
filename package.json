@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "0.0.1",
+  "description": "my final project description",
+  "main": "index.js",
+  "authors": {
+    "name": "Eduard Gómez",
+    "email": "eduard.gomez@bts.tech"
+  },
+  "repository": "/myproject",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
